@@ -1,0 +1,23 @@
+.table{
+    
+    .main_btn{
+        display: flex;
+        gap: 10px;
+
+        .update{
+          // background-color: green;
+           cursor: pointer;
+        }
+        .delete{
+          //background-color: red;
+          cursor: pointer;
+        }
+    }
+}
+
+.btnadd{
+    display: flex;
+    justify-content: right;
+}
+
+
